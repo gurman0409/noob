@@ -1,0 +1,42 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+body
+{
+    text-align: center;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(26, 135, 224);
+    line-height: 2;
+    text-align: center;
+
+  }
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+.big-image
+{
+    width: 100%;
+}
+
+#start , #status
+{
+    font-size: 22px;
+}
